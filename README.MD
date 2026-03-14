@@ -81,5 +81,5 @@ The dashboard is built on the Netflix Titles dataset (~6,200 titles) and contain
 ## 👤 Author
 
 **Shubham Gupta**
-[Tableau Public Profile](https://public.tableau.com/app/profile/shubham.gupta2025)
+[Tableau Public Profile](https://public.tableau.com/app/profile/shubham.gupta2025),
 [LinkedIn](https://www.linkedin.com/in/theshubhamguptaa/)
