@@ -10,10 +10,6 @@ A data visualization project analyzing Netflix's global content library — expl
 
 ---
 
-## 📸 Dashboard Preview
-
-![Netflix Insights Dashboard](screenshots/dashboard.png)
-
 ---
 
 ## 📁 Project Structure
