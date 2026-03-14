@@ -69,10 +69,10 @@ The dashboard is built on the Netflix Titles dataset (~6,200 titles) and contain
 
 ## 💡 Key Takeaways
 
-- 🇺🇸 The US dominates Netflix's content library with 35%+ of all titles
-- 📺 Over 1,300 TV Shows have just 1 season — limited series are the norm
-- 🔞 TV-MA is the #1 rating category with 2,027 titles
-- 🎬 Movies outnumber TV Shows significantly, especially in mature categories
+- The US dominates Netflix's content library with 35%+ of all titles
+- Over 1,300 TV Shows have just 1 season — limited series are the norm
+- TV-MA is the #1 rating category with 2,027 titles
+- Movies outnumber TV Shows significantly, especially in mature categories
 
 > For detailed chart-level insights and recommendations, see [analysis_report.md](analysis_report.md)
 
