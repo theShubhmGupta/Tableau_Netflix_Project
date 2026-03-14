@@ -6,7 +6,7 @@ A data visualization project analyzing Netflix's global content library — expl
 
 ## 🔗 Live Dashboard
 
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/shubham.gupta2025/viz/NetflixInsightsDashboard_17579528140600/Dashboard1)
+[View on Tableau Public](https://public.tableau.com/app/profile/shubham.gupta2025/viz/NetflixInsightsDashboard_17579528140600/Dashboard1)
 
 ---
 
